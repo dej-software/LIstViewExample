@@ -15,6 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".controllers.ArrayAdapterExampleActivity"
+            android:label="ArrayAdapter示例" />
+        <activity android:name=".controllers.ListActivityExampleActivity" />
+        <activity android:name=".controllers.CheckboxesExampleActivity" />
+        <activity
+            android:name=".controllers.CustomListActivity"
+            android:label="CustomList示例"></activity>
     </application>
 
 </manifest>
